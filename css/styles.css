@@ -6,6 +6,7 @@
 	padding: 0;
 }
 
+
 .mynav{
 	background-image: url("../images/navbar.jpg");
 	height: 500px;
@@ -117,3 +118,12 @@ footer{
 .logos{
 	height: 100px
 }
+
+.post{
+	height: 600px;
+	
+}
+
+
+
+
